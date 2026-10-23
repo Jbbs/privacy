@@ -1,1 +1,1 @@
-# privacy
+Applicazione ad uso strettamente personale. Sincronizza file del mio archivio di documentazione verso il mio Google Drive tramite rclone. Non raccoglie, condivide né vende dati di altri utenti. Unico utente: il proprietario del progetto.
